@@ -30,3 +30,5 @@ rjsmin
 arxiv
 numpy
 rich
+nougat-ocr
+tiktoken
